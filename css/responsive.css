@@ -149,9 +149,9 @@ header .container.active .login-icon, header .container.active .language-icon, h
   .business_content_area-img{width: 90%; aspect-ratio: auto 1 / 1; height: unset;}
   .business_content-box{display: flex; align-items: center; gap: 4vw;}
   .business_content-box:nth-child(2), .business_content-box:nth-child(4){padding-top: 0; flex-direction: row-reverse;}
-  .business_content_area-button{bottom: 50%; left: unset; right: 0; transform: translate(50%, 50%); width: 5.3vw; aspect-ratio: auto 1 / 1; height: unset;}
+  .business_content-box:nth-child(1) .business_content_area-button, .business_content-box:nth-child(3) .business_content_area-button, .business_content-box:nth-child(5) .business_content_area-button{bottom: 50%; left: unset; right: 0; transform: translate(50%, 50%); width: 5.3vw; aspect-ratio: auto 1 / 1; height: unset;}
+  .business_content-box:nth-child(2) .business_content_area-button, .business_content-box:nth-child(4) .business_content_area-button{bottom: 50%; left: 0; transform: translate(-50%, 50%); width: 5.3vw; aspect-ratio: auto 1 / 1; height: unset;}
   .business_content_area-button::before{font-size: 2.1vw;}
-  .business_content-box:nth-child(2) .business_content_area-button, .business_content-box:nth-child(4) .business_content_area-button{bottom: 50%; left: 0; transform: translate(-50%, 50%);}
   .business_content-box:nth-child(2) .business_content_area, .business_content-box:nth-child(4) .business_content_area{transform-origin: right center;}
   .business_content_title{font-size: 30px; margin-top: 0;}
   .business_content_title::after{width: 67px; bottom: -10px;}
@@ -165,6 +165,8 @@ header .container.active .login-icon, header .container.active .language-icon, h
   .business_content-box:nth-child(2) .business_content-text_responsive, .business_content-box:nth-child(4) .business_content-text_responsive{
     text-align: end;
   }
+  .business_content-box:nth-child(4) .business_content_area:hover .business_content_area-button,   .business_content-box:nth-child(2) .business_content_area:hover .business_content_area-button{left: 50%;}
+  .business_content-box:nth-child(1) .business_content_area:hover .business_content_area-button,   .business_content-box:nth-child(3) .business_content_area:hover .business_content_area-button,   .business_content-box:nth-child(5) .business_content_area:hover .business_content_area-button{right: 50%;}
   
 
   /* footer */
