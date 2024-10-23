@@ -83,9 +83,7 @@ document.querySelector('nav').addEventListener('mouseleave', function(){
   searchWrap.classList.remove('active_s')
 });
 
-window.onresize = function(){
-  document.location.reload();
-};
+
 
 
 let mainLogoDver = document.querySelector('.main_logo');
