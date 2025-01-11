@@ -1,127 +1,148 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=0:8bc6e4,100:6956fb&height=180&text=Hello&fontAlign=80&rotate=12&fontAlignY=25&desc=I'm%20Soyeon&descAlign=83&descAlignY=44&fontColor=ffffff&fontSize=60" />
+<div style="text-align: left;"> 
+  <h2 style="border-bottom: 1px solid #d8dee4;"> 🌾한국농수산식품유통공사 홈페이지 리뉴얼 팀 프로젝트🌾 </h2>
+  <div align="center">
+    <img width="70%" src="https://github.com/soyeon1962/image-folder/blob/main/assets/2024-MAIN%20PROJECT-01.png?raw=true"/>
+    <p>🖥 <a href="https://soyeon1962.github.io/project01/">리뉴얼 데모 사이트 바로가기</a> 📱</p>
+  </div>
+  <div style="text-align: left;"> 
+    <ul>
+      <li>개인프로젝트로 진행한 공공기관 리뉴얼 작업입니다.</li>
+      <li>메인페이지 및 서브페이지(공지사항, esg사업소개)에 접근할 수 있습니다.</li>
+      <li><b>반응형 웹페이지</b>입니다. 모바일로도 접속하실 수 있습니다.</li>
+      <li>리뉴얼 사이트는 개인적으로 진행한 프로젝트로, 실제 기관인 한국농수산식품유통공사와 관련이 없습니다.</li>
+      <li>리뉴얼 사이트의 모든 저작물은 한국농수산식품유통공사의 저작권 정책을 따릅니다. 무단으로 사용하실 수 없습니다.</li>
+    </ul>
+    </div> 
+  </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4;"> 📒리뉴얼 기획서📒 </h2>
+      👉 <a href="https://docs.google.com/presentation/d/1VSkNYJwvooFwS-7UQpDLtvtcyZJwKWf5rN1qVknnwXY/edit#slide=id.p">구글 슬라이드 바로가기</a> 👈
+      <h3>🤔 주요 문제점</h3>
+      <ul>
+        <li>정보 집중도 부족</li>
+        <li>반응형 디자인 문제</li>
+        <li>내비게이션 메뉴의 혼잡함</li>
+        <li>디자인 트렌드 반영</li>
+        <li>컨텐츠의 디자인의 일관성 부족</li>
+      </ul>
+      <h3>💡 리뉴얼 목표</h3>
+      <ul>
+      <li>정보 접근 용이선 개선</li>
+      <li>반응형 디자인 적용</li>
+      <li>디자인 일관성 강화</li>
+      <li>시각 자료의 효과적 활</li>
+      </ul>
     </div>
-    
-
-
-# 🍑🥔🌾한국농수산식품유통공사 홈페이지 리뉴얼🌾🥔🍑
-
-## 작업자 : 정소연
-
-## 제작 기간
-- 기획 : 5일 (2024년 08월 26일 ~ 2024년 08월 30일)
-- 디자인 : 15일 (2024년 09월 02일 ~ 2024년 09월 20일)
-- 개발 : 25일 (2024년 09월 23일 ~ 2024년 10월 25일)
-
-<!--
-## ⭐️ 프로젝트 설명
-
-### 메인 페이지 
-- 대표 기능: 메인 페이지에서 사용한 핵심 기능을 나열. 예를 들어, 슬라이더, 주요 공지사항, 배너 등.
-- 사용자 인터페이스: 사용자가 메인 페이지에서 처음으로 접하는 인터페이스의 특징과 핵심 기능들.
-- 검색 및 네비게이션 기능: 사용자가 원하는 정보를 쉽게 찾을 수 있도록 돕는 기능들.
-
-### 서브 페이지 기능
-
-- 세부 내용 제공: 서브 페이지에서 제공하는 구체적인 정보나 자료들을 설명.(예를 들어, 서비스 소개, FAQ, 정책 자료)
-- 카테고리 별 페이지: 서브 페이지에서 카테고리 별로 나뉘어 있는 기능들, 예를 들어 각 부서 소개, 로그인기능, 문서 다운로드 등
-
-## �� 개발 환경
-
-- 개발 환경 : <img src="https://img.shields.io/badge/windows10-0078D6?style=flat-square&logo=windows10&logoColor=white"/>
-- 사용 프로그램 : <img src="https://img.shields.io/badge/Vs code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-- 사용된 기술 :
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=Swiper&logoColor=white">
-
-
-
-## �� 페이지 구성
-
-### 메인 페이지
-
-| 섹션1 : 메인비주얼                                                                                                      |
-| :---------------------------------------------------------------------------------------------------------------------- |
-| ![busanMain]() |
-
-| 화려하고 시선을 이끄는 이미지들을 활용한 와이드샷 이미지를 배경슬라이드로 사용합니다. 바닐라 슬라이드로 제작되었으며 이미지 슬라이드, 텍스트 슬라이드 총 두 가지의 슬라이드가 각각 정확한 타이밍에 작동되고 있습니다.
-
-<br>
-
-| 섹션2 : 티켓 예매 / 프로모션                                                                                              |
-| :------------------------------------------------------------------------------------------------------------------------ |
-| ![busanReserv]() |
-
-| 현재 온라인 예약 / 사전예약으로 예매할 경우 할인이 들어가는 입장권의 종류를 나열합니다. 각각 얼만큼 할인이 되는지 이미지에 after을 주어 오른쪽 상단에 보여줍니다. 마우스 hover시 이미지의 scale이 변화하고 translateY가 변화하며 위로 올라가는 효과를 줍니다.<br>
-| 뒷배경으로 보이는 배와 물결에서 확인할 수 있듯 수면을 나타낸 것이며 이하의 영역들은 마치 바닷속을 나타내는 것과도 같습니다.
-
-<br>
-
-| 섹션3 : 전시존                                                                                                           |
-| :----------------------------------------------------------------------------------------------------------------------- |
-| ![busanSlick]() |
-
-| 씨라이프 부산에서 전시중인 컨텐츠들을 Slick 슬라이더를 활용하여 나타냅니다. 자동 & 무한반복 슬라이드이며 hover시 translateY값을 변경하여 마우스 커서가 해당 전시를 가리키고 있는지 한 눈에 확인 가능합니다.
-
-<br>
-
-| 섹션4 : 공연                                                                                                           |
-| :--------------------------------------------------------------------------------------------------------------------- |
-| ![busanPer]() |
-
-| 씨라이프 부산에서 공연중인 컨텐츠들을 탭 메뉴로 보여줍니다. 네 가지의 공연이 진행되고 있으며 반응형에서는 select menu로 변경됩니다.
-
-<br>
-
-| 섹션5 : 바다친구들                                                                                                        |
-| :------------------------------------------------------------------------------------------------------------------------ |
-| ![busanFriend]() |
-| 씨라이프 부산에서 만날 수 있는 대표적인 해양생물들을 보여줍니다.
-
-<br>
-
-| 섹션6 : 리뷰와 Footer                                                                                                           |
-| :------------------------------------------------------------------------------------------------------------------------------ |
-| ![busanReviewFooter]() |
-
-| 기존 홈페이지에서는 단 하나의 리뷰만이 노출되어있으며 이 또한 네이버페이 리뷰 링크로 연결됩니다. 사진을 포함하여 여러 종류의 리뷰를 볼 수 있도록 바닐라 슬라이드로 구현하였습니다.<br>
-| 해저 바닥과도 같은 느낌을 주는 Footer 입니다. 산호와 게에 움직임을 주어 사용자에게 마치 실제 바닷속에 있는 듯한 즐거움을 주기 위한 효과입니다.
-
-<br>
-
-### 서브페이지
-
-| 서브01 : 티켓 예매                                                                                                        |
-| :------------------------------------------------------------------------------------------------------------------------ |
-| ![busanSub1-3]() |
-
-| 사이트의 주된 목적인 티켓예매 페이지입니다. 수많은 종류의 티켓을 모두 보여주려 공간을 효율적으로 활용하기 위해 Swiper 슬라이드를 사용하였고, 유형별 티켓을 구분하기 위해 슬라이드 박스 오른쪽 상단에 색상으로 종류를 나타내었습니다.<br>
-| 씨라이프 부산의 또다른 테마 전시관인 '브릭맨 원더월드'로 연결되는 버튼이 존재하며 예매 일정 변경이나 단체 방문에 관한 안내페이지로 넘어갈 수 있도록 하는 섹션이 있습니다. <br>
-| 마지막으로 입장권 환불 규정과 공지를 담은 아코디언 메뉴가 있습니다. 이 부분이 아코디언 메뉴라 탭을 열고 닫아야 한다는 것을 사용자가 한 눈에 인지할 수 있도록 둘 중 하나의 아코디언을 open 상태로 두었습니다.
-
-<br>
-
-| 서브02 : 안전수칙                                                                                                       |
-| :---------------------------------------------------------------------------------------------------------------------- |
-| ![busanSub2]() |
-
-| 페이지 제작 당시 많이 완화가 되고 있었으나 아직 코로나 바이러스의 확산 방지를 위한 규정들이 존재했기에 이를 방문자에게 상기시키기 위한 컨텐츠가 배치되었습니다. AOS를 활용하여 컨텐츠들이 떠오르는 효과를 주어 지루한 느낌이 들지 않도록 제작하였습니다.
-
-## �� 링크
-
-- [브레인 스토밍]()
-
-- [와이어프레임 및 디자인]()
-
-- [리뉴얼 사이트]()
-
--->
-
-    
-
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+      <div style="text-align: left;"> 
+        <h2 style="border-bottom: 1px solid #d8dee4;"> 📅제작 기간📅 </h2>
+        <ul>
+          <li>기획: 5일 (2024년 08월 26일 ~ 2024년 08월 30일)</li>
+          <li>디자인: 15일 (2024년 09월 02일 ~ 2024년 09월 20일)</li>
+          <li>개발: 25일 (2024년 09월 23일 ~ 2024년 10월 25일)</li>
+        </ul>
+      </div>
+    <div style="text-align: left;">
+      <h2 style="border-bottom: 1px solid #d8dee4;"> 🛠️ 기술 스택 🛠️</h2>
+      <div style="text-align: left;">
+        <li>개발 환경: <img src="https://img.shields.io/badge/windows10-0078D6?style=flat-square&logo=windows10&logoColor=white"/></li>
+        <li>사용 프로그램:
+          <img src="https://img.shields.io/badge/Vscode-007ACC?style=flat-square&logo=Vscode&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
+          <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
+        <li>사용된 기술: 
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
+        </li>
+      </div>
+    </div>
+        <div style="text-align: left;">
+        <h2 style="border-bottom: 1px solid #d8dee4;"> ⚙ 주요 기능 ⚙</h2>
+        <h3>📰메인 페이지📰</h3>
+        <h3>📌 스와이퍼를 통한 슬라이드 구현</h3>
+        <img width="85%" src="https://github.com/soyeon1962/image-folder/blob/main/gif/mainproject_01-01.gif?raw=true" />
+        <ul>
+            <li>메인 페이지 첫 섹션에서 **스와이퍼(Swiper.js)**를 활용하여 슬라이드 기능을 구현했습니다.</li>
+            <li>슬라이드는 자동 재생(auto-play) 설정이 적용되어 있으며, 사용자가 좌우 버튼이나 드래그를 통해 컨트롤할 수도 있습니다.</li>
+            <li>반응형으로 설계되어 화면 크기에 따라 슬라이드 비율이 조정됩니다.</li>
+        </ul>
+        <h3>📌 주요서비스 섹션</h3>
+        <img width="85%" src="https://github.com/soyeon1962/image-folder/blob/main/gif/mainproject_01-02.gif?raw=true" />
+        <ul>
+            <li>이 섹션에서는 제공하는 핵심 서비스를 한눈에 볼 수 있도록 시각적으로 구성하였습니다.</li>
+            <li>호버 효과를 적용해, 사용자가 마우스를 올릴 때 추가적인 시각적 피드백을 받도록 설계했습니다.</li>
+            <li>반응형 디자인으로, 화면 크기에 따라 레이아웃이 변경되며 모바일 환경에서도 가독성을 유지합니다.</li>
+        </ul>
+        <h3>📌 탭과 스와이퍼를 이용한 뉴스 섹션</h3>
+        <img width="85%" src="https://github.com/soyeon1962/image-folder/blob/main/gif/mainproject_01-03.gif?raw=true" />
+        <ul>
+        <li>탭 전환 기능을 통해 공지사항과 뉴스를 하나의 화면에서 간편히 확인할 수 있도록 설계했습니다.</li>
+        <li>JavaScript를 활용한 동적 UI 구현으로, 각 탭의 활성화 상태를 시각적으로 표시하여 사용자에게 직관적인 피드백을 제공합니다.</li>
+        <li>콘텐츠는 카드 형식으로 정리되어 있어, 공지사항과 뉴스를 명확하고 깔끔하게 보여줍니다.</li>
+        <li>반응형으로 디자인되어, 모바일 환경에서도 탭과 콘텐츠가 잘 작동하며 가독성이 유지됩니다.</li>
+        </ul>
+        <h3>📌 슬라이드를 이용한 SNS 섹션</h3>
+        <img width="85%" src="https://github.com/soyeon1962/image-folder/blob/main/gif/mainproject_01-04.gif?raw=true" />
+        <ul>
+        <li>스와이퍼를 활용하여 콘텐츠를 슬라이드 형식으로 구현한 섹션입니다.</li>
+        <li>SNS 섹션에서는 다양한 소셜 미디어 콘텐츠를 슬라이드로 배치하여, 사용자들이 최신 소식을 한눈에 확인할 수 있도록 구성했습니다.</li>
+        <li>사보 섹션에서는 주요 사보 및 홍보 자료를 슬라이드로 정리하여, 필요한 정보를 직관적으로 확인할 수 있습니다.</li>
+        </ul>
+        <h3>📌 스와이퍼를 이용한 popup 섹션</h3>
+        <img width="85%" src="https://github.com/soyeon1962/image-folder/blob/main/gif/mainproject_01-05.gif?raw=true" />
+        <ul>
+        <li>스와이퍼를 활용하여 다수의 콘텐츠를 슬라이드 형식으로 보여주는 섹션입니다.</li>
+        <li>자동 재생 기능이 적용되어 슬라이드가 순차적으로 이동하며, 사용자가 직관적으로 콘텐츠를 탐색할 수 있도록 설계되었습니다.</li>
+        <li>각 슬라이드는 이벤트나 주요 정보가 포함된 카드 형식으로 구성되었으며, 사용자가 좌우로 탐색할 수 있습니다.</li>
+        </ul>
+        <h3>📌 탭기능을 활용한 공고섹션</h3>
+        <img width="85%" src="https://github.com/soyeon1962/image-folder/blob/main/gif/mainproject_01-06.gif?raw=true" />
+        <ul>
+        <li>탭 전환 기능을 통해 공고를 효율적으로 분류하여 보여주는 섹션입니다.</li>
+        <li>각 공고는 카드 형식으로 구성되어 있으며, 날짜와 제목을 포함하여 직관적으로 정보를 전달합니다.</li>
+        <li>사용자가 정보를 쉽게 확인할 수 있도록 가독성을 높인 간단한 UI를 적용했습니다.<li>
+        </ul>
+        <h3>📌 호버 효과를 이용한 주요사업 섹션</h3>
+        <img width="85%" src="https://github.com/soyeon1962/image-folder/blob/main/gif/mainproject_01-07.gif?raw=true" />
+        <ul>
+        <li>프로젝트에서 제공하는 주요 사업이나 서비스를 강조한 섹션입니다.</li>
+        <li>호버 효과를 적용해, 사용자가 마우스를 올릴 때 각 카드의 정보가 강조되며 시각적인 피드백을 제공합니다.</li>
+        <li>반응형 레이아웃으로 모바일 및 데스크톱 환경 모두에서 적절히 표시됩니다.</li>
+        </ul>
+        <h3>📰반응형📰</h3>
+        <h3>📌 메인 페이지</h3>
+        <ul>
+            <li>다양한 디바이스(데스크톱, 태블릿, 모바일)에서 최적화된 사용자 경험을 제공하기 위해 반응형 디자인을 적용하였습니다.</li>
+            <li>미디어 쿼리를 사용하여 화면 크기에 따라 레이아웃, 글꼴 크기, 이미지 배치를 동적으로 조정하였습니다.</li>
+            <li>모바일 환경에서는 메뉴, 텍스트 크기, 버튼 크기를 조정하여 터치 사용성을 극대화하였습니다.</li>
+            <li>데스크톱 환경에서는 넓은 화면을 활용한 콘텐츠 배치와 시각적 여백을 통해 가독성을 높였습니다.</li>
+            <li>이미지와 동적 콘텐츠가 화면 크기에 따라 비율을 유지하도록 설계되어, 콘텐츠가 잘리거나 깨지는 현상을 방지하였습니다.</li>
+            <li>사용자가 어떤 기기를 사용하든 일관된 디자인과 사용성을 유지하도록 세심하게 구성되었습니다.</li>
+        </ul>
+        <div style="text-align: left;">
+          <h2 style="border-bottom: 1px solid #d8dee4;"> 🌾공지사항페이지🌾 </h2>
+          <div align="center">
+            <img width="70%" src="https://github.com/soyeon1962/image-folder/blob/main/assets/2024-MAIN%20PROJECT-01-subpage-02.png?raw=true"/>
           </div>
-    </div>
+          <div style="text-align: left;"> 
+            <ul>
+              <li>공지사항을 효율적으로 탐색할 수 있도록 페이지네이션 기능을 구현하였습니다.</li>
+              <li>부서 선택 필터링 기능을 통해, 특정 부서의 공지만 따로 확인할 수 있도록 설계하였습니다.</li>
+              <li>반응형으로 설계되어, 모바일과 데스크톱 환경 모두에서 최적의 사용자 경험을 제공합니다.</li>
+            </ul>
+          </div>
+        </div>
+        <div style="text-align: left;">
+          <h2 style="border-bottom: 1px solid #d8dee4;"> 🌾ESG주요사업페이지🌾 </h2>
+          <div align="center">
+            <img width="70%" src="https://github.com/soyeon1962/image-folder/blob/main/assets/2024-MAIN%20PROJECT-01-subpage-01.png?raw=true"/>
+          </div>
+          <div style="text-align: left;"> 
+            <ul>
+              <li>ESG(환경, 사회, 거버넌스) 사업과 관련된 주요 내용을 소개하는 페이지로, 사용자가 각 사업의 목적과 세부 정보를 한눈에 파악할 수 있도록 구성되었습니다.</li>
+              <li>사업의 성격에 따라 카드 디자인으로 구분되어 가독성과 시각적인 편안함을 제공합니다.</li>
+              <li>반응형 웹 디자인을 적용하여, 다양한 화면 크기에서도 정보를 효율적으로 탐색할 수 있습니다.</li>
+            </ul>
+          </div>
+        </div>
+        <div style="text-align: left;">
